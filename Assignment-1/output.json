@@ -1,0 +1,15 @@
+{
+    "company_name": "Microsoft",
+    "stock_code": "MSFT",
+    "newsdesc": "How Microsoft's AI play is transforming the NFL sidelines",
+    "sentiment": "Positive",
+    "people_names": [],
+    "places_names": [],
+    "other_companies_referred": [],
+    "related_industries": [
+        "Technology",
+        "Sports"
+    ],
+    "market_implications": "Positive impact on Microsoft's reputation and potential partnerships in sports technology.",
+    "confidence_score": 0.85
+}
